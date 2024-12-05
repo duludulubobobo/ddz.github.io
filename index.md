@@ -28,6 +28,43 @@ I am pursuing a master's degree at UCL, specializing in development economics an
 
 ## 💼 Experiences
 
+<div style="margin-bottom: 15px;">
+<h4 style="margin:0 10px 0;">Sinolink Securities</h4>
+<ul style="margin:0 0 5px;">
+  <autocolor>Mar 2024 - Jun 2024 · 4 mos<br></autocolor>
+  <autocolor>Shanghai · On-site<br></autocolor>
+  <autocolor>Equity Research Intern<br></autocolor>
+</ul>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <h4 style="margin:0 10px 0;">Sinolink Securities</h4>
+</div>
+<ul style="margin:0 0 5px;">
+  <autocolor>Jul 2023 - Jan 2024 · 7 mos<br></autocolor>
+  <autocolor>Shanghai · On-site<br></autocolor>
+  <autocolor>Investment Banking Intern<br></autocolor>
+</ul>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <h4 style="margin:0 10px 0;">Tairun Asset Management Co., Ltd</h4>
+</div>
+<ul style="margin:0 0 5px;">
+  <autocolor>Jun 2022 - Aug 2022 · 3 mos<br></autocolor>
+  <autocolor>Guangdong · On-site<br></autocolor>
+  <autocolor>Private Equity Fund Operations Intern<br></autocolor>
+</ul>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <h4 style="margin:0 10px 0;">Zheshang Bank Co.</h4>
+</div>
+<ul style="margin:0 0 5px;">
+  <autocolor>Jan 2022 - Mar 2022 · 3 mos<br></autocolor>
+  <autocolor>Guangdong · On-site<br></autocolor>
+  <autocolor>Business Banking Assistant<br></autocolor>
+</ul>
+
+</div>
+
 ## 🌟 Core Strengths:
 
 - **Data-driven decision-making:** Skilled in Tableau, SQL, Nvivo, Python, Stata, and generative AI (prompt engineering) for efficient data analysis and visualization.
