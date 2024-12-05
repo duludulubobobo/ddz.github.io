@@ -10,6 +10,22 @@ I am pursuing a master's degree at UCL, specializing in development economics an
 
 ## 🏫 Education
 
+<div style="margin-bottom: 15px;">
+<h4 style="margin:0 10px 0;">University College London</h4>
+<ul style="margin:0 0 5px;">
+  <autocolor>Sep.2024 ~ Sep.2025 (expected)<br></autocolor>
+  <autocolor>MSc Global Prosperity<br></autocolor>
+</ul>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <h4 style="margin:0 10px 0;">Guangdong University of Finance & Economics</h4>
+</div>
+<ul style="margin:0 0 5px;">
+  <autocolor>Sep.2019 ~ June.2023<br></autocolor>
+  <autocolor>B.S. of Finance<br></autocolor>
+</ul>
+</div>
+
 ## 💼 Experiences
 
 ## 🌟 Core Strengths:
