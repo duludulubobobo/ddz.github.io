@@ -27,9 +27,7 @@ I am pursuing a master's degree at UCL, specializing in development economics an
 </div>
 
 ## 💼 Experiences
-
 Experienced in Private Equity, Investment Banking, and Equity Research.
-
 <div style="margin-bottom: 15px;">
 <h4 style="margin:0 10px 0;">Sinolink Securities</h4>
 <ul style="margin:0 0 5px;">
